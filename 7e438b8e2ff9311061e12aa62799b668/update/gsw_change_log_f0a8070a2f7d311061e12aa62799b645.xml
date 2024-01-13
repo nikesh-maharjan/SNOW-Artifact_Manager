@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2023-10-12 03:50:52</change_date>
+        <changed_by display_value="Nikesh Maharjan">f5e6c1b52fd5b11061e12aa62799b6f3</changed_by>
+        <content display_value="Assign Workflows">ab86dda67310230021741c86fbf6a7e2</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>nmaharjan</sys_created_by>
+        <sys_created_on>2023-10-12 03:50:52</sys_created_on>
+        <sys_id>f0a8070a2f7d311061e12aa62799b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2023-10-12 03:50:52</sys_name>
+        <sys_package display_value="Artifact Manager Workspace" source="x_308504_amw">7e438b8e2ff9311061e12aa62799b668</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Artifact Manager Workspace">7e438b8e2ff9311061e12aa62799b668</sys_scope>
+        <sys_update_name>gsw_change_log_f0a8070a2f7d311061e12aa62799b645</sys_update_name>
+        <sys_updated_by>nmaharjan</sys_updated_by>
+        <sys_updated_on>2023-10-12 03:50:52</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>
