@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>amw</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>nmaharjan</sys_created_by>
+        <sys_created_on>2023-10-12 03:50:28</sys_created_on>
+        <sys_id>83880b0a2f7d311061e12aa62799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amw</sys_name>
+        <sys_package display_value="Artifact Manager Workspace" source="x_308504_amw">7e438b8e2ff9311061e12aa62799b668</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Artifact Manager Workspace">7e438b8e2ff9311061e12aa62799b668</sys_scope>
+        <sys_update_name>sys_ux_app_config_83880b0a2f7d311061e12aa62799b6d1</sys_update_name>
+        <sys_updated_by>nmaharjan</sys_updated_by>
+        <sys_updated_on>2023-10-12 03:50:28</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=83880b0a2f7d311061e12aa62799b6d1"/>
+</record_update>
